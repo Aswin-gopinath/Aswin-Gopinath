@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 My name is Aswin Gopinath<br>🔭 I’m currently working on a ecommerce project<br>🤝 I’m looking for help with any on going projects<br>🌱 I’m currently learning react<br>💬 Ask me about tech
+Hi 👋 My name is Aswin Gopinath<br>🌱 I’m a MERN stack developer<br>🔭 Software developer @ANJ_AMERICA<br>💬 Ask me about tech
 
 
 ## 🌐 Socials:
